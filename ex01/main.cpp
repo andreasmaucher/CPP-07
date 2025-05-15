@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-#include "iter.hpp"
+#include "Iter.hpp"
 
 // Function to multiply numbers by 2
 void multiplyByTwo(int& x) {
